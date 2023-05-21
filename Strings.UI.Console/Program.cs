@@ -12,5 +12,6 @@ var myStrings = new MyString[]
 foreach (var myString in myStrings)
 {
     Console.WriteLine(myString.IsPalindrome());
+
 }
 
